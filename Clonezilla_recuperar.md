@@ -2,6 +2,8 @@
 
 El proceso de restauración será igual que el proceso de creación de copias de seguridad en el cual en vez de seleccionar la opción de guardar partición *(saveparts)* o dispositivos *(savedisk)* elegiremos las de *restoredisk* (dispositivos) o *restoreparts* (particiones) según nos sea necesario.
 
+![restore](./img/1r.png)
+
 Después de ello continuaremos con algunas opciones específicas de la restauración que se nos ofrecerán:
 Por defecto: Usa la tabla de particiones de la imagen
 * -k: No crear tabla de particiones (solo útil si estamos restaurando sobre un dispositivo que ya contenía anteriormente las particiones que fuéramos a restaurar).
