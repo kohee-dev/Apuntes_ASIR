@@ -105,7 +105,7 @@ Y poco antes de empezar el proceso de clonado se nos preguntará de que tamaño 
 
 ![8](./img/img_experto/8.png)
 
-Como última opción nos ofrecerá la posibilidad de al terminar apagarse (-p poweroff), reiniciar (-p reboot) o simplemente no hacer nada esperando nuestra respuesta (-p true) 
+Como última opción nos ofrecerá la posibilidad de al terminar apagarse *(-p poweroff)*, reiniciar *(-p reboot)* o simplemente no hacer nada esperando nuestra respuesta *(-p true)*
 
 ![9](./img/img_experto/9.png)
 
@@ -122,7 +122,7 @@ Para introducirla en un futuro bastará con entrar en entorno de comandos en cua
 ![10](./img/img_experto/10.png)
 
 
-Ahora nos pedirá preguntará si estamos seguros de lo que vamos a hacer (pues podríamos perder datos si estamos restaurando o escribiendo sobre un archivo de imagen o partición existente) y una vez aceptemos veremos como se ejecuta el proceso indicando el % de cada una de las acciones y terminando con la orden que le diéramos al final si elegimos apagar o reiniciar, en caso contrario, podremos ver si el proceso terminó correctamente y si hubo fallos, mirar donde los hubo para así poderlos solucionar añadiendo parámetros extras.
+Ahora nos preguntará si estamos seguros de lo que vamos a hacer (pues podríamos perder datos si estamos restaurando o escribiendo sobre un archivo de imagen o partición existente) y una vez aceptemos veremos como se ejecuta el proceso indicando el % de cada una de las acciones y terminando con la orden que le diéramos al final si elegimos apagar o reiniciar, en caso contrario, podremos ver si el proceso terminó correctamente y si hubo fallos, mirar donde los hubo para así poderlos solucionar añadiendo parámetros extras.
 
 Una vez terminado el trabajo podremos mover y llevarnos sin problemas la carpeta resultante a donde queramos, copiarla, restaurarla o lo que necesitemos.	
 
